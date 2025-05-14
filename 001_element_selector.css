@@ -1,0 +1,57 @@
+body {
+    background-color:floralwhite;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:normal;
+    padding: 15px;
+}
+
+h1 {
+    color:dimgrey;
+    font-size: normal;
+    text-align: center;
+}
+
+h2 {
+    color:brown;
+    font-size: medium;
+}
+
+h3 {
+    color:beige;
+    font-size: medium;
+}
+
+h3 {
+    color:gold;
+    font-size: medium;
+}
+
+h4 {
+    color:black;
+    font-size: medium;
+}
+
+h5 {
+    color:crimson;
+    font-size: medium;
+}
+
+h6 {
+    color:burlywood;
+    font-size: 28px;
+}
+
+p {
+    color:darkgrey;
+    font-size: 30px;
+}
+
+a {
+    color:navy;
+    font-size: medium;
+}
+
+div {
+    color:cadetblue;
+    font-size: 30px;
+}
